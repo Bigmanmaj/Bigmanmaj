@@ -22,8 +22,8 @@ Interested in software engineering, machine learning and fintech, and open to gr
 
 ## Tech stack
 
-![Java and Spring Boot](https://img.shields.io/badge/Java-Spring%20Boot-007396)
 ![Python](https://img.shields.io/badge/Python-3776AB)
+![Java and Spring Boot](https://img.shields.io/badge/Java-Spring%20Boot-007396)
 ![TypeScript, Next.js and React](https://img.shields.io/badge/TypeScript-Next.js%20%7C%20React-3178C6)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C)
 ![PostgreSQL and Supabase](https://img.shields.io/badge/PostgreSQL-Supabase-336791)
