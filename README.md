@@ -28,7 +28,7 @@ Interested in software engineering, machine learning and fintech, and open to gr
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C)
 ![PostgreSQL and Supabase](https://img.shields.io/badge/PostgreSQL-Supabase-336791)
 
-Java and Spring Boot, Python, TypeScript, Next.js and React, C++, PostgreSQL and Supabase.
+Python, Java, Spring Boot, C++, TypeScript, Next.js, React, PostgreSQL and Supabase.
 
 ## Contact
 
