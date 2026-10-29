@@ -1,6 +1,6 @@
 # Maciej Roszkowski
 
-Computer Science graduate of Royal Holloway, University of London (BSc Computer Science, First-Class Honours, 2023–2026), based in Kent/London, UK. Former Teaching Assistant at Royal Holloway (Sep 2025–May 2026).
+Computer Science graduate of Royal Holloway, University of London (BSc Computer Science, First-Class Honours, 2023–2026), based in London, UK. Former Teaching Assistant at Royal Holloway (Sep 2025–May 2026).
 
 Interested in software engineering, machine learning and fintech, and open to graduate software engineering roles.
 
